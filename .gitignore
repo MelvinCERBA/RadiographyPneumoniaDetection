@@ -4,3 +4,5 @@
 # conda environnements
 /venv-cpu
 /venv-gpu
+
+.DS_Store
