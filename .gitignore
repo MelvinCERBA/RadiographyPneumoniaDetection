@@ -1,0 +1,6 @@
+# dataset
+/chest_Xray
+
+# conda environnements
+/venv-cpu
+/venv-gpu
