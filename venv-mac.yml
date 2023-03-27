@@ -1,13 +1,15 @@
-name: venv-cpu
+name: venv-mac
 channels:
   - conda-forge
   - defaults
+  - apple
 dependencies:
   - python=3.10
-  - pip
   - jupyter
   - pandas
   - numpy
   - matplotlib
+  - pip
+  - tensorflow-deps
   - pip:
-      - tensorflow-cpu
+      - tensorflow-macos

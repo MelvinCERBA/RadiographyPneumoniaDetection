@@ -3,10 +3,8 @@
 ## conda
 
 - export env: conda env export > venv-cpu.yml
-- conda create -f venv-cpu.yml -- prefix ./venv-cpu
+- conda create -f venv-cpu.yml
 - conda env list
-
-python jupyter pandas numpy matplotlib tensorflow-gpu
 
 ## todo
 
