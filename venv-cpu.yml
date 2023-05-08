@@ -9,5 +9,6 @@ dependencies:
   - pandas
   - numpy
   - matplotlib
+  - scipy
   - pip:
       - tensorflow-cpu
