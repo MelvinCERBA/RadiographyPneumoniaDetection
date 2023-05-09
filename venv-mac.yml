@@ -11,5 +11,8 @@ dependencies:
   - matplotlib
   - pip
   - tensorflow-deps
+  - chardet
   - pip:
       - tensorflow-macos
+      - opencv-python
+      - scipy
