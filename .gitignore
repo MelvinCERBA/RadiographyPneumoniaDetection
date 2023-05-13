@@ -9,3 +9,6 @@
 
 # keras tuner
 /notebooks/output/KerasTunerCNN
+
+# big models
+/notebooks/tf_models
