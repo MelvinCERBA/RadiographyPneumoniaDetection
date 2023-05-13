@@ -6,3 +6,6 @@
 /venv-gpu
 
 .DS_Store
+
+# keras tuner
+/notebooks/output/KerasTunerCNN
