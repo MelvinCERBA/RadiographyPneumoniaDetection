@@ -10,5 +10,5 @@
 # keras tuner
 /notebooks/output/KerasTunerCNN
 
-# big models
-#/notebooks/tf_models
+# Ignore tensorflow models saved (too large to push)
+*.h5
