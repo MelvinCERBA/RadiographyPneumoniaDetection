@@ -11,4 +11,4 @@
 /notebooks/output/KerasTunerCNN
 
 # big models
-/notebooks/tf_models
+#/notebooks/tf_models
