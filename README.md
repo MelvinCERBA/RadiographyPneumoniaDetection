@@ -1,14 +1,6 @@
-# ZOIDBERG
+![pneumonia_classification](pneumonia_classification.png)
+# Radiography Pneumonia Detection 
 
-## commands
+In this project we compared the training performances and results of various machine learning algorithm on the task of pneumonia detection on radiographies.
 
-### conda
-
-- export env: conda env export > venv-cpu.yml
-- conda create -f venv-cpu.yml
-- conda env list
-
-### todo
-
-- deploy on web
-- latex doc
+See [the full report](ZoidbergReport.pdf) for details.
